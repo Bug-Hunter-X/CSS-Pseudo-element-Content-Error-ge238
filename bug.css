@@ -1,0 +1,1 @@
+The CSS code uses an invalid value for the `content` property in the `::before` or `::after` pseudo-element.  For example, using a variable that isn't defined or a URL that doesn't exist.  This can lead to the pseudo-element not rendering correctly or at all.
