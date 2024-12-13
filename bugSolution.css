@@ -1,0 +1,8 @@
+/* Correct CSS */
+.element::before {
+  content: "Example Text"; /* Or a properly defined variable */
+}
+
+.element::after {
+  content: url("path/to/image.svg"); /* Ensure this URL is correct */
+}
